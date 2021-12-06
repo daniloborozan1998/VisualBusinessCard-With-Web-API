@@ -1,0 +1,9 @@
+C:\Users\Danilo Borozan\Desktop\Backend-VisualBusinessCards\VisualBusinessCards\VisualBusinessCards.Shared\bin\Debug\netcoreapp3.1\VisualBusinessCards.Shared.deps.json
+C:\Users\Danilo Borozan\Desktop\Backend-VisualBusinessCards\VisualBusinessCards\VisualBusinessCards.Shared\bin\Debug\netcoreapp3.1\VisualBusinessCards.Shared.dll
+C:\Users\Danilo Borozan\Desktop\Backend-VisualBusinessCards\VisualBusinessCards\VisualBusinessCards.Shared\bin\Debug\netcoreapp3.1\VisualBusinessCards.Shared.pdb
+C:\Users\Danilo Borozan\Desktop\Backend-VisualBusinessCards\VisualBusinessCards\VisualBusinessCards.Shared\obj\Debug\netcoreapp3.1\VisualBusinessCards.Shared.csproj.AssemblyReference.cache
+C:\Users\Danilo Borozan\Desktop\Backend-VisualBusinessCards\VisualBusinessCards\VisualBusinessCards.Shared\obj\Debug\netcoreapp3.1\VisualBusinessCards.Shared.AssemblyInfoInputs.cache
+C:\Users\Danilo Borozan\Desktop\Backend-VisualBusinessCards\VisualBusinessCards\VisualBusinessCards.Shared\obj\Debug\netcoreapp3.1\VisualBusinessCards.Shared.AssemblyInfo.cs
+C:\Users\Danilo Borozan\Desktop\Backend-VisualBusinessCards\VisualBusinessCards\VisualBusinessCards.Shared\obj\Debug\netcoreapp3.1\VisualBusinessCards.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Danilo Borozan\Desktop\Backend-VisualBusinessCards\VisualBusinessCards\VisualBusinessCards.Shared\obj\Debug\netcoreapp3.1\VisualBusinessCards.Shared.dll
+C:\Users\Danilo Borozan\Desktop\Backend-VisualBusinessCards\VisualBusinessCards\VisualBusinessCards.Shared\obj\Debug\netcoreapp3.1\VisualBusinessCards.Shared.pdb

@@ -1,0 +1,9 @@
+C:\Users\Danilo Borozan\Desktop\Backend-VisualBusinessCards\VisualBusinessCards\VisualBusinessCards.Mappers\bin\Debug\netcoreapp3.1\VisualBusinessCards.Mappers.deps.json
+C:\Users\Danilo Borozan\Desktop\Backend-VisualBusinessCards\VisualBusinessCards\VisualBusinessCards.Mappers\bin\Debug\netcoreapp3.1\VisualBusinessCards.Mappers.dll
+C:\Users\Danilo Borozan\Desktop\Backend-VisualBusinessCards\VisualBusinessCards\VisualBusinessCards.Mappers\bin\Debug\netcoreapp3.1\VisualBusinessCards.Mappers.pdb
+C:\Users\Danilo Borozan\Desktop\Backend-VisualBusinessCards\VisualBusinessCards\VisualBusinessCards.Mappers\obj\Debug\netcoreapp3.1\VisualBusinessCards.Mappers.csproj.AssemblyReference.cache
+C:\Users\Danilo Borozan\Desktop\Backend-VisualBusinessCards\VisualBusinessCards\VisualBusinessCards.Mappers\obj\Debug\netcoreapp3.1\VisualBusinessCards.Mappers.AssemblyInfoInputs.cache
+C:\Users\Danilo Borozan\Desktop\Backend-VisualBusinessCards\VisualBusinessCards\VisualBusinessCards.Mappers\obj\Debug\netcoreapp3.1\VisualBusinessCards.Mappers.AssemblyInfo.cs
+C:\Users\Danilo Borozan\Desktop\Backend-VisualBusinessCards\VisualBusinessCards\VisualBusinessCards.Mappers\obj\Debug\netcoreapp3.1\VisualBusinessCards.Mappers.csproj.CoreCompileInputs.cache
+C:\Users\Danilo Borozan\Desktop\Backend-VisualBusinessCards\VisualBusinessCards\VisualBusinessCards.Mappers\obj\Debug\netcoreapp3.1\VisualBusinessCards.Mappers.dll
+C:\Users\Danilo Borozan\Desktop\Backend-VisualBusinessCards\VisualBusinessCards\VisualBusinessCards.Mappers\obj\Debug\netcoreapp3.1\VisualBusinessCards.Mappers.pdb

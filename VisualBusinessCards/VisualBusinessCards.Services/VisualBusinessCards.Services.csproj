@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="5.2.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\VisualBusinessCards.DataAccess\VisualBusinessCards.DataAccess.csproj" />
+    <ProjectReference Include="..\VisualBusinessCards.Dtos\VisualBusinessCards.Dtos.csproj" />
+    <ProjectReference Include="..\VisualBusinessCards.Shared\VisualBusinessCards.Shared.csproj" />
+  </ItemGroup>
+
+</Project>

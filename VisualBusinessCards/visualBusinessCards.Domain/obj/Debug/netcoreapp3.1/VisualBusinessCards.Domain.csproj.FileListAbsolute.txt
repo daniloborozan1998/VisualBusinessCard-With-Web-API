@@ -1,0 +1,12 @@
+C:\Users\Danilo Borozan\Desktop\Backend-VisualBusinessCards\VisualBusinessCards\visualBusinessCards.Domain\bin\Debug\netcoreapp3.1\VisualBusinessCards.Domain.deps.json
+C:\Users\Danilo Borozan\Desktop\Backend-VisualBusinessCards\VisualBusinessCards\visualBusinessCards.Domain\bin\Debug\netcoreapp3.1\VisualBusinessCards.Domain.dll
+C:\Users\Danilo Borozan\Desktop\Backend-VisualBusinessCards\VisualBusinessCards\visualBusinessCards.Domain\bin\Debug\netcoreapp3.1\VisualBusinessCards.Domain.pdb
+C:\Users\Danilo Borozan\Desktop\Backend-VisualBusinessCards\VisualBusinessCards\visualBusinessCards.Domain\obj\Debug\netcoreapp3.1\VisualBusinessCards.Domain.AssemblyInfoInputs.cache
+C:\Users\Danilo Borozan\Desktop\Backend-VisualBusinessCards\VisualBusinessCards\visualBusinessCards.Domain\obj\Debug\netcoreapp3.1\VisualBusinessCards.Domain.AssemblyInfo.cs
+C:\Users\Danilo Borozan\Desktop\Backend-VisualBusinessCards\VisualBusinessCards\visualBusinessCards.Domain\obj\Debug\netcoreapp3.1\VisualBusinessCards.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Danilo Borozan\Desktop\Backend-VisualBusinessCards\VisualBusinessCards\visualBusinessCards.Domain\obj\Debug\netcoreapp3.1\VisualBusinessCards.Domain.dll
+C:\Users\Danilo Borozan\Desktop\Backend-VisualBusinessCards\VisualBusinessCards\visualBusinessCards.Domain\obj\Debug\netcoreapp3.1\VisualBusinessCards.Domain.pdb
+C:\Users\Danilo Borozan\Desktop\Backend-VisualBusinessCards\VisualBusinessCards\visualBusinessCards.Domain\bin\Debug\netcoreapp3.1\VisualBusinessCards.Domain.runtimeconfig.json
+C:\Users\Danilo Borozan\Desktop\Backend-VisualBusinessCards\VisualBusinessCards\visualBusinessCards.Domain\bin\Debug\netcoreapp3.1\VisualBusinessCards.Domain.runtimeconfig.dev.json
+C:\Users\Danilo Borozan\Desktop\Backend-VisualBusinessCards\VisualBusinessCards\visualBusinessCards.Domain\obj\Debug\netcoreapp3.1\VisualBusinessCards.Domain.csproj.AssemblyReference.cache
+C:\Users\Danilo Borozan\Desktop\Backend-VisualBusinessCards\VisualBusinessCards\visualBusinessCards.Domain\obj\Debug\netcoreapp3.1\VisualBusinessCards.Domain.genruntimeconfig.cache

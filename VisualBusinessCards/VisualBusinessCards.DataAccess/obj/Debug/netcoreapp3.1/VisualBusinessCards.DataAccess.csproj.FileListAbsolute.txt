@@ -1,0 +1,15 @@
+C:\Users\Danilo Borozan\Desktop\Backend-VisualBusinessCards\VisualBusinessCards\VisualBusinessCards.DataAccess\bin\Debug\netcoreapp3.1\VisualBusinessCards.DataAccess.deps.json
+C:\Users\Danilo Borozan\Desktop\Backend-VisualBusinessCards\VisualBusinessCards\VisualBusinessCards.DataAccess\bin\Debug\netcoreapp3.1\VisualBusinessCards.DataAccess.runtimeconfig.json
+C:\Users\Danilo Borozan\Desktop\Backend-VisualBusinessCards\VisualBusinessCards\VisualBusinessCards.DataAccess\bin\Debug\netcoreapp3.1\VisualBusinessCards.DataAccess.runtimeconfig.dev.json
+C:\Users\Danilo Borozan\Desktop\Backend-VisualBusinessCards\VisualBusinessCards\VisualBusinessCards.DataAccess\bin\Debug\netcoreapp3.1\VisualBusinessCards.DataAccess.dll
+C:\Users\Danilo Borozan\Desktop\Backend-VisualBusinessCards\VisualBusinessCards\VisualBusinessCards.DataAccess\bin\Debug\netcoreapp3.1\VisualBusinessCards.DataAccess.pdb
+C:\Users\Danilo Borozan\Desktop\Backend-VisualBusinessCards\VisualBusinessCards\VisualBusinessCards.DataAccess\bin\Debug\netcoreapp3.1\VisualBusinessCards.Domain.dll
+C:\Users\Danilo Borozan\Desktop\Backend-VisualBusinessCards\VisualBusinessCards\VisualBusinessCards.DataAccess\bin\Debug\netcoreapp3.1\VisualBusinessCards.Domain.pdb
+C:\Users\Danilo Borozan\Desktop\Backend-VisualBusinessCards\VisualBusinessCards\VisualBusinessCards.DataAccess\obj\Debug\netcoreapp3.1\VisualBusinessCards.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Danilo Borozan\Desktop\Backend-VisualBusinessCards\VisualBusinessCards\VisualBusinessCards.DataAccess\obj\Debug\netcoreapp3.1\VisualBusinessCards.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Danilo Borozan\Desktop\Backend-VisualBusinessCards\VisualBusinessCards\VisualBusinessCards.DataAccess\obj\Debug\netcoreapp3.1\VisualBusinessCards.DataAccess.AssemblyInfo.cs
+C:\Users\Danilo Borozan\Desktop\Backend-VisualBusinessCards\VisualBusinessCards\VisualBusinessCards.DataAccess\obj\Debug\netcoreapp3.1\VisualBusinessCards.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Danilo Borozan\Desktop\Backend-VisualBusinessCards\VisualBusinessCards\VisualBusinessCards.DataAccess\obj\Debug\netcoreapp3.1\VisualBusinessCards.DataAccess.csproj.CopyComplete
+C:\Users\Danilo Borozan\Desktop\Backend-VisualBusinessCards\VisualBusinessCards\VisualBusinessCards.DataAccess\obj\Debug\netcoreapp3.1\VisualBusinessCards.DataAccess.dll
+C:\Users\Danilo Borozan\Desktop\Backend-VisualBusinessCards\VisualBusinessCards\VisualBusinessCards.DataAccess\obj\Debug\netcoreapp3.1\VisualBusinessCards.DataAccess.pdb
+C:\Users\Danilo Borozan\Desktop\Backend-VisualBusinessCards\VisualBusinessCards\VisualBusinessCards.DataAccess\obj\Debug\netcoreapp3.1\VisualBusinessCards.DataAccess.genruntimeconfig.cache

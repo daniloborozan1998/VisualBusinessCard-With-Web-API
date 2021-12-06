@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../Styles/style.css" type="text/css">
+    <link rel="stylesheet" href="../Styles/succ.css" type="text/css">
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Merriweather:400,900,900i" rel="stylesheet">
+    <title>InRoom Preview Visual Business Cards</title>
+</head>
+
+<body>
+    <!-- ==============  HOME  ================ -->
+
+    <a id="backToTopButton"></a>
+
+    <section class="header">
+        <nav>
+            <!-- <p id="logo" >InRoom Preview</p> -->
+            <a href="index.html" id="logo">InRoom Preview</a>
+            <div class="nav-links" id="navLinks">
+                <i class="fas fa-times" onclick="hideMenu()"></i>
+                <ul>
+                    <li><a href="#">HOME</a></li>
+                    <li><a href="#howItWorks">HOW IT WORKS</a></li>
+                    <li><a href="#aboutUs">ABOUT US</a></li>
+                    <li><a href="#contact">CONTACT</a></li>
+                    <li><a href="#joinUs">JOIN US</a></li>
+                    <!-- <li><a href="../Templates/editor.html">CREATE NOW</a></li> -->
+                </ul>
+            </div>
+            <i class="fas fa-bars" onclick="showMenu()"></i>
+        </nav>
+
+        <div class="text-box">
+            <h1 class="title">Visual Business Cards </h1>
+        </div>
+        <h1 class="loginSucc">You are successfully registered, please log in to design your card</h1>
+    </section>
+
+    <!-- =================   JOIN US    ================ -->
+
+    <section id="joinUs" class="join-us">
+        <div class="login-page">
+            <div class="form-box">
+                <div class="button-box">
+                    <div id="btn"></div>
+                    <button type="button" class="toggle-btn" id="login-btn" onclick="login()">Log In</button>
+                    <form id="login" class="input-group-login">
+                        <input type="text" class="input-field" id="loginUsername1" placeholder="Username" required="required">
+                        <br><br>
+                        <input type="password" class="input-field" id="loginPassword1" placeholder="Password" required="required">
+                        <br><br><br><br><br>
+                        <button type="submit" class="submit-btn" id="loginBtn1">Log In</button>
+                    </form>
+
+
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+
+
+    <!-- ================   FOOTER   =================== -->
+
+
+
+    <footer>
+        <div class="footer-content">
+            <h3>InRoom Preview</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut modi optio tempora pariatur aperiam officiis, aliquid illum non quam est magnam impedit nulla perferendis quos eveniet unde eaque dolorum exercitationem.</p>
+        </div>
+        <ul class="socialas">
+            <li><a href="https://www.facebook.com/inroompreview/"><i class="fab fa-facebook"> &nbsp; Facebook</i></a>
+            </li>
+            <li><a href="https://www.instagram.com/inroompreview/"><i class="fab fa-instagram"></i>&nbsp;Instagram</a>
+            </li>
+            <li><a href="https://www.linkedin.com/company/inroompreview/about/"><i
+                        class="fab fa-linkedin-in"></i>&nbsp;Linkedin</a></li>
+        </ul>
+        <br><br>
+        <div class="footer-bottom">
+            <p>Copyright &copy;2021 InRoom Preview</p>
+        </div>
+    </footer>
+
+
+
+
+    <!-- ===============================    JAVASCRIPT    ============================ -->
+
+    <script src='https://code.jquery.com/jquery-3.2.1.min.js'>
+    </script>
+    <script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
+    <script src="../Scripts/app.js"></script>
+    <script src="../Scripts/log.js"></script>
+    <script src="../Scripts/login1.js"></script>
+    
+</body>
+
+</html>

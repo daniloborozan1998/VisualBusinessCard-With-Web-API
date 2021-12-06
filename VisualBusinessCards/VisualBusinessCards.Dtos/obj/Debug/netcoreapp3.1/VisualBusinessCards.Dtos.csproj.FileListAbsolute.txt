@@ -1,0 +1,9 @@
+C:\Users\Danilo Borozan\Desktop\Backend-VisualBusinessCards\VisualBusinessCards\VisualBusinessCards.Dtos\bin\Debug\netcoreapp3.1\VisualBusinessCards.Dtos.deps.json
+C:\Users\Danilo Borozan\Desktop\Backend-VisualBusinessCards\VisualBusinessCards\VisualBusinessCards.Dtos\bin\Debug\netcoreapp3.1\VisualBusinessCards.Dtos.dll
+C:\Users\Danilo Borozan\Desktop\Backend-VisualBusinessCards\VisualBusinessCards\VisualBusinessCards.Dtos\bin\Debug\netcoreapp3.1\VisualBusinessCards.Dtos.pdb
+C:\Users\Danilo Borozan\Desktop\Backend-VisualBusinessCards\VisualBusinessCards\VisualBusinessCards.Dtos\obj\Debug\netcoreapp3.1\VisualBusinessCards.Dtos.csproj.AssemblyReference.cache
+C:\Users\Danilo Borozan\Desktop\Backend-VisualBusinessCards\VisualBusinessCards\VisualBusinessCards.Dtos\obj\Debug\netcoreapp3.1\VisualBusinessCards.Dtos.AssemblyInfoInputs.cache
+C:\Users\Danilo Borozan\Desktop\Backend-VisualBusinessCards\VisualBusinessCards\VisualBusinessCards.Dtos\obj\Debug\netcoreapp3.1\VisualBusinessCards.Dtos.AssemblyInfo.cs
+C:\Users\Danilo Borozan\Desktop\Backend-VisualBusinessCards\VisualBusinessCards\VisualBusinessCards.Dtos\obj\Debug\netcoreapp3.1\VisualBusinessCards.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\Danilo Borozan\Desktop\Backend-VisualBusinessCards\VisualBusinessCards\VisualBusinessCards.Dtos\obj\Debug\netcoreapp3.1\VisualBusinessCards.Dtos.dll
+C:\Users\Danilo Borozan\Desktop\Backend-VisualBusinessCards\VisualBusinessCards\VisualBusinessCards.Dtos\obj\Debug\netcoreapp3.1\VisualBusinessCards.Dtos.pdb
